@@ -10,7 +10,7 @@
 
   <name>maven-junit-4-tests</name>
   <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com/vipin/localfix/changeinstagearea-stash2/changedingithub</url>
+  <url>http://www.example.com/vipin/localfix/changeinstagearea-stash2/changedingithub/gitfetch</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
