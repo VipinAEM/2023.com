@@ -10,7 +10,7 @@
 
   <name>maven-junit-4-tests</name>
   <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com/vipin/localfix/localfix</url>
+  <url>http://www.example.com/vipin</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
